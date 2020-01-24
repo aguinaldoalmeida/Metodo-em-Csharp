@@ -2,7 +2,7 @@ H1
 # Exercicio Metodo c# -  Notas POO
 
 
-    /* Exercício feito durante a aula - 11/04/16 
+    /*  
      * Elaborar um método que solicita para o usuário digitar
      * a nota continuada e a nota semestral de um aluno.
      * Este método deve calcular e devolver a média desse aluno.
